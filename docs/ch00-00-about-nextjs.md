@@ -1,4 +1,4 @@
-# 序章
+# Next.jsについて
 
 > 参考: https://nextjs.org/learn/foundations/about-nextjs
 
