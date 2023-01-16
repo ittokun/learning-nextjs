@@ -10,3 +10,4 @@ Next.jsを学ぶためのリポジトリ
    - [JavaScriptとDOMメソッドでUIを更新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-01-updating-ui-with-javascript-and-dom.md)
    - [Reactを始める](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-02-getting-started-with-react.md)
    - [Reactの為の必須JavaScript](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-03-essential-javascript-for-react.md)
+   - [Reactのコアコンセプト](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-04-react-core-concepts.md)
