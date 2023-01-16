@@ -12,3 +12,4 @@ Next.jsを学ぶためのリポジトリ
    - [Reactの為の必須JavaScript](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-03-essential-javascript-for-react.md)
    - [Reactのコアコンセプト](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-04-react-core-concepts.md)
    - [コンポーネントでUIを構築する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-05-building-ui-with-conponents.md)
+   - [Propsでデータを表示する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-06-displaying-data-with-props.md)
