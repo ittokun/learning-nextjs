@@ -16,3 +16,4 @@ Next.jsを学ぶためのリポジトリ
    - [Stateによるインタラクションの追加](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-07-adding-interactivity-with-state.md)
    - [Reactを学び続けるには](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-08-how-to-continue-learning-react.md)
 3. [ReactからNext.jsへ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-00-from-react-to-nextjs.md)
+   - [Next.jsを始める](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-01-getting-started-with-nextjs.md)
