@@ -13,3 +13,4 @@ Next.jsを学ぶためのリポジトリ
    - [Reactのコアコンセプト](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-04-react-core-concepts.md)
    - [コンポーネントでUIを構築する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-05-building-ui-with-conponents.md)
    - [Propsでデータを表示する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-06-displaying-data-with-props.md)
+   - [Stateによるインタラクションの追加](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-07-adding-interactivity-with-state.md)
