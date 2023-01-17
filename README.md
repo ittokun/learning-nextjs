@@ -15,3 +15,4 @@ Next.jsを学ぶためのリポジトリ
    - [Propsでデータを表示する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-06-displaying-data-with-props.md)
    - [Stateによるインタラクションの追加](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-07-adding-interactivity-with-state.md)
    - [Reactを学び続けるには](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-08-how-to-continue-learning-react.md)
+3. [ReactからNext.jsへ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-00-from-react-to-nextjs.md)
