@@ -17,3 +17,4 @@ Next.jsを学ぶためのリポジトリ
    - [Reactを学び続けるには](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-08-how-to-continue-learning-react.md)
 3. [ReactからNext.jsへ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-00-from-react-to-nextjs.md)
    - [Next.jsを始める](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-01-getting-started-with-nextjs.md)
+   - [次のステップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-02-next-steps.md)
