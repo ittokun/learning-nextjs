@@ -20,3 +20,4 @@ Next.jsを学ぶためのリポジトリ
    - [次のステップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch02-02-next-steps.md)
 4. [Next.jsの仕組み](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-00-how-nextjs-works.md)
    - [開発、本番環境](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-01-development-and-production.md)
+   - [コンパイルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-02-what-is-compiling.md)
