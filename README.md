@@ -23,3 +23,4 @@ Next.jsを学ぶためのリポジトリ
    - [コンパイルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-02-what-is-compiling.md)
    - [最小化とは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-03-what-is-minifying.md)
    - [バンドルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-04-what-is-bundling.md)
+   - [コード分割とは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-05-what-is-code-splitting.md)
