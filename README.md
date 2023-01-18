@@ -25,3 +25,4 @@ Next.jsを学ぶためのリポジトリ
    - [バンドルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-04-what-is-bundling.md)
    - [コード分割とは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-05-what-is-code-splitting.md)
    - [ビルドタイムとランタイム](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-06-build-time-and-runtime.md)
+   - [クライアントとサーバー](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-07-client-and-server.md)
