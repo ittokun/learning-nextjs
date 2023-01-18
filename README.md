@@ -22,3 +22,4 @@ Next.jsを学ぶためのリポジトリ
    - [開発、本番環境](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-01-development-and-production.md)
    - [コンパイルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-02-what-is-compiling.md)
    - [最小化とは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-03-what-is-minifying.md)
+   - [バンドルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-04-what-is-bundling.md)
