@@ -28,3 +28,4 @@ Next.jsを学ぶためのリポジトリ
    - [クライアントとサーバー](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-07-client-and-server.md)
    - [レンダリングとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-08-what-is-rendering.md)
    - [CDNsとEdge](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-09-cdns-and-edge.md)
+   - [次のステップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-10-next-steps.md)
