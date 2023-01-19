@@ -27,3 +27,4 @@ Next.jsを学ぶためのリポジトリ
    - [ビルドタイムとランタイム](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-06-build-time-and-runtime.md)
    - [クライアントとサーバー](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-07-client-and-server.md)
    - [レンダリングとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-08-what-is-rendering.md)
+   - [CDNsとEdge](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-09-cdns-and-edge.md)
