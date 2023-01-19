@@ -4,6 +4,8 @@ Next.jsを学ぶためのリポジトリ
 
 > 参考: https://nextjs.org/learn/foundations/about-nextjs
 
+**FOUNDATION**
+
 1. [Next.jsについて](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch00-00-about-nextjs.md)
    - [Next.jsとは？](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch00-01-what-is-nextjs.md)
 2. [JavaScriptからReactへ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch01-00-from-javascript-to-react.md)
@@ -29,3 +31,7 @@ Next.jsを学ぶためのリポジトリ
    - [レンダリングとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-08-what-is-rendering.md)
    - [CDNsとEdge](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-09-cdns-and-edge.md)
    - [次のステップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch03-10-next-steps.md)
+
+**CREATE YOUR FIRST APP**
+
+1. [Next.jsアプリを作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-01-create-nextjs-app.md)
