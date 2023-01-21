@@ -36,4 +36,5 @@ Next.jsを学ぶためのリポジトリ
 
 1. [Next.jsアプリを作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-00-create-nextjs-app.md)
    - [セットアップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-01-setup.md)
-   - [Next.jsへようこそ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-02-welcome-to nextjs.md)
+   - [Next.jsへようこそ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-02-welcome-to-nextjs.md)
+   - [ページを編集](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-03-editing-the-page.md)
