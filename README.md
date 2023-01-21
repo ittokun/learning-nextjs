@@ -39,3 +39,4 @@ Next.jsを学ぶためのリポジトリ
    - [Next.jsへようこそ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-02-welcome-to-nextjs.md)
    - [ページを編集](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch04-03-editing-the-page.md)
 2. [ページ間の移動](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-00-navigate-between-pages.md)
+   - [Next.js内のページ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-01-pages-in-nextjs.md)
