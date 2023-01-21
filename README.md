@@ -41,3 +41,4 @@ Next.jsを学ぶためのリポジトリ
 2. [ページ間の移動](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-00-navigate-between-pages.md)
    - [Next.js内のページ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-01-pages-in-nextjs.md)
    - [リンクコンポーネント](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-02-link-component.md)
+   - [クライアントサイドナビゲーション](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-03-client-side-navigation.md)
