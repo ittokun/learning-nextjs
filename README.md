@@ -47,3 +47,4 @@ Next.jsを学ぶためのリポジトリ
    - [メタデータ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-02-metadata.md)
    - [サードパーティJavaScript](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-03-third-party-javascript.md)
    - [CSSスタイル](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-04-css-styling.md)
+   - [レイアウトコンポーネント](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-05-layout-component.md)

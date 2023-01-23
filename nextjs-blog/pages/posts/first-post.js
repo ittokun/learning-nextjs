@@ -2,6 +2,7 @@ import Head from "next/head";
 import Script from "next/script";
 import Link from "next/link";
 import Image from "next/image";
+import Layout from "../../components/layout";
 
 function FirstPost() {
   const YourComponent = () => (
@@ -14,7 +15,7 @@ function FirstPost() {
   );
 
   return (
-    <>
+    <Layout>
       <Head>
         <title>First Post</title>
       </Head>
@@ -28,7 +29,7 @@ function FirstPost() {
         <Link href="/">Back to home</Link>
         <YourComponent />
       </h2>
-    </>
+    </Layout>
   );
 }
 
