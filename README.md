@@ -42,3 +42,4 @@ Next.jsを学ぶためのリポジトリ
    - [Next.js内のページ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-01-pages-in-nextjs.md)
    - [リンクコンポーネント](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-02-link-component.md)
    - [クライアントサイドナビゲーション](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch05-03-client-side-navigation.md)
+3. [アセット、メタデータ、CSS](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-00-assets-metadata-css.md)
