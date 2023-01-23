@@ -49,3 +49,4 @@ Next.jsを学ぶためのリポジトリ
    - [CSSスタイル](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-04-css-styling.md)
    - [レイアウトコンポーネント](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-05-layout-component.md)
    - [グローバルスタイル](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-06-global-styles.md)
+   - [レイアウトを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-07-polishing-layout.md)
