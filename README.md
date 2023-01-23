@@ -45,3 +45,4 @@ Next.jsを学ぶためのリポジトリ
 3. [アセット、メタデータ、CSS](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-00-assets-metadata-css.md)
    - [アセット](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-01-assets.md)
    - [メタデータ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-02-metadata.md)
+   - [サードパーティJavaScript](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-03-third-party-javascript.md)
