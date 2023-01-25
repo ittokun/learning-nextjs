@@ -53,3 +53,4 @@ Next.jsを学ぶためのリポジトリ
    - [スタイリングのヒント](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-08-styling-tips.md)
 4. [プリレンダリングとデータフェッチ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-00-pre-rendering-and-data-fetching.md)
    - [プリレンダリング](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-01-pre-rendering.md)
+   - [プリレンダリングの2つの形態](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-02-two-forms-of-pre-rendering.md)
