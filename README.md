@@ -51,3 +51,4 @@ Next.jsを学ぶためのリポジトリ
    - [グローバルスタイル](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-06-global-styles.md)
    - [レイアウトを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-07-polishing-layout.md)
    - [スタイリングのヒント](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch06-08-styling-tips.md)
+4. [プリレンダリングとデータフェッチ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-00-pre-rendering-and-data-fetching.md)
