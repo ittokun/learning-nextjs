@@ -58,3 +58,4 @@ Next.jsを学ぶためのリポジトリ
    - [シンプルなブログアーキテクチャを作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-04-creating-simple-blog-architecture.md)
    - [getStaticPropsの実装](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-05-implement-getstaticprops.md)
    - [getStaticPropsの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-06-getstaticprops-details.md)
+   - [リクエスト時のデータ取得](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-07-fetching-data-request-time.md)
