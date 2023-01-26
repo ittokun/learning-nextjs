@@ -55,3 +55,4 @@ Next.jsを学ぶためのリポジトリ
    - [プリレンダリング](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-01-pre-rendering.md)
    - [プリレンダリングの2つの形態](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-02-two-forms-of-pre-rendering.md)
    - [データありなしの静的生成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-03-static-generation-with-and-without-data.md)
+   - [シンプルなブログアーキテクチャを作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-04-creating-simple-blog-architecture.md)
