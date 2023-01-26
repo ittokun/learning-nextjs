@@ -57,3 +57,4 @@ Next.jsを学ぶためのリポジトリ
    - [データありなしの静的生成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-03-static-generation-with-and-without-data.md)
    - [シンプルなブログアーキテクチャを作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-04-creating-simple-blog-architecture.md)
    - [getStaticPropsの実装](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-05-implement-getstaticprops.md)
+   - [getStaticPropsの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-06-getstaticprops-details.md)
