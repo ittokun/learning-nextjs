@@ -59,3 +59,4 @@ Next.jsを学ぶためのリポジトリ
    - [getStaticPropsの実装](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-05-implement-getstaticprops.md)
    - [getStaticPropsの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-06-getstaticprops-details.md)
    - [リクエスト時のデータ取得](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch07-07-fetching-data-request-time.md)
+5. [動的ルート](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-00-dynamic-routes.md)
