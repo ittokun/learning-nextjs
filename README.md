@@ -64,3 +64,4 @@ Next.jsを学ぶためのリポジトリ
    - [getStaticPathsの実装](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-02-implement-getstaticpaths.md)
    - [getStaticPropsの実装](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-03-implement-getstaticprops.md)
    - [Markdownをレンダー](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-04-render-markdown.md)
+   - [ブログページを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-05-polishing-post-page.md)
