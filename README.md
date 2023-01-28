@@ -66,3 +66,4 @@ Next.jsを学ぶためのリポジトリ
    - [Markdownをレンダー](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-04-render-markdown.md)
    - [ブログページを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-05-polishing-post-page.md)
    - [ルートページを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-06-polishing-index-page.md)
+   - [動的ルートの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-07-dynamic-routes-details.md)
