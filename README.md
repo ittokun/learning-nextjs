@@ -65,3 +65,4 @@ Next.jsを学ぶためのリポジトリ
    - [getStaticPropsの実装](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-03-implement-getstaticprops.md)
    - [Markdownをレンダー](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-04-render-markdown.md)
    - [ブログページを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-05-polishing-post-page.md)
+   - [ルートページを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-06-polishing-index-page.md)
