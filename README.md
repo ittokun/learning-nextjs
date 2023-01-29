@@ -80,3 +80,4 @@ Next.jsを学ぶためのリポジトリ
 **Search Engine Optimization**
 
 1. [SEOとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch11-00-what-is-seo.md)
+   - [SEOはなぜ重要なのか](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch11-01-why-SEO-important.md)
