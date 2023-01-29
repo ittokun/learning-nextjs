@@ -68,3 +68,4 @@ Next.jsを学ぶためのリポジトリ
    - [ルートページを一新する](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-06-polishing-index-page.md)
    - [動的ルートの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-07-dynamic-routes-details.md)
 6. [APIルート](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-00-api-routes.md)
+   - [APIルートの作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-01-creating-api-routes.md)
