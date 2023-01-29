@@ -73,3 +73,4 @@ Next.jsを学ぶためのリポジトリ
 7. [Next.jsアプリをデプロイ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-00-deploying-nextjs-app.md)
    - [GitHubにプッシュ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-01-push-to-github.md)
    - [Vercelにデプロイ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-02-deploy-to-vercel.md)
+   - [Next.jsとVercel](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-03-nextjs-and-vercel.md)
