@@ -71,3 +71,4 @@ Next.jsを学ぶためのリポジトリ
    - [APIルートの作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-01-creating-api-routes.md)
    - [APIルートの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-02-api-routes-details.md)
 7. [Next.jsアプリをデプロイ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-00-deploying-nextjs-app.md)
+   - [GitHubにプッシュ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-01-push-to-github.md)
