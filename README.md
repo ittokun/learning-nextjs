@@ -69,3 +69,4 @@ Next.jsを学ぶためのリポジトリ
    - [動的ルートの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch08-07-dynamic-routes-details.md)
 6. [APIルート](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-00-api-routes.md)
    - [APIルートの作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-01-creating-api-routes.md)
+   - [APIルートの詳細](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch09-02-api-routes-details.md)
