@@ -76,3 +76,7 @@ Next.jsを学ぶためのリポジトリ
    - [Next.jsとVercel](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-03-nextjs-and-vercel.md)
    - [他のホストオプション](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-04-other-hosting-options.md)
    - [最後に](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch10-05-finally.md)
+
+**Search Engine Optimization**
+
+1. [SEOとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch11-00-what-is-seo.md)
