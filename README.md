@@ -84,3 +84,4 @@ Next.jsを学ぶためのリポジトリ
    - [検索システム](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch11-02-search-systems.md)
    - [ウェブクローラとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch11-03-what-web-crawlers.md)
 2. [クローリングとインデックス作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-00-crawling-and-indexing.md)
+   - [HTTPステータスコードとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-01-what-http-status-code.md)
