@@ -87,3 +87,4 @@ Next.jsを学ぶためのリポジトリ
    - [HTTPステータスコードとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-01-what-http-status-code.md)
    - [robots.txtファイルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-02-what-robots-txt-file.md)
    - [XMLサイトマップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-03-xml-sitemaps.md)
+   - [メタタグ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-04-meta-tags.md)
