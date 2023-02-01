@@ -86,3 +86,4 @@ Next.jsを学ぶためのリポジトリ
 2. [クローリングとインデックス作成](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-00-crawling-and-indexing.md)
    - [HTTPステータスコードとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-01-what-http-status-code.md)
    - [robots.txtファイルとは](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-02-what-robots-txt-file.md)
+   - [XMLサイトマップ](https://github.com/ittokun/learning-nextjs/blob/main/docs/ch12-03-xml-sitemaps.md)
